@@ -99,3 +99,17 @@
     background-color: wheat;
     padding: 20px;
 }
+
+
+.last{
+    padding: 50px;
+    background: darkgray;
+    margin-top: 50px;
+}
+.foter{
+    text-align: center;
+
+}
+.first{
+    margin-left: 550px;
+}
