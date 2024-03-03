@@ -1,0 +1,101 @@
+.navebar{
+    display: flex;
+    justify-content: space-between;
+}
+.first{
+    display: flex;
+    gap: 10px;
+}
+.first img{
+    margin-top: 25px;
+    height: 40px;
+}
+.primary{
+    color: orangered;
+}
+.first p{
+    font-size:30px;
+    font-weight: bold;
+}
+.second{
+    display: flex;
+    gap: 30px;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+.second p{
+    font-size: 20px;
+}
+/* .navebar done!!  */
+
+.banner-container{
+
+}
+.banner-img{
+    width: 100%;
+}
+.banner-text{
+    text-align: center;
+    margin-left: 300px;
+    position: absolute;
+    top: 15%;
+    color: white;
+    padding: 20px;
+}
+.banner-text h2{
+    font-size: 50px;
+}
+.banner-container button{
+    padding: 20px;
+    padding-left: 40px;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+/* popular tour section start here !!!  */
+
+.tour-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text-side h3{
+    font-size: 30px;
+}
+
+/* third section start here  */
+.third-text{
+    margin-top: 50px;
+    text-align: center;
+}
+.third-text h2{
+    font-size: 30px;
+}
+
+.contry-container{
+    display: inline;
+    align-items: center;
+}
+/* staart fourth  */
+.choose-text{
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+.cart-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.first-card{
+    background-color: wheat;
+    padding: 20px;
+}
+.first-card h4{
+    font-size: 20px;
+}
+.third-card{
+    margin-left: 370px;
+    width: 40%;
+    margin-top: 10px;
+    background-color: wheat;
+    padding: 20px;
+}
