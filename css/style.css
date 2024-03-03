@@ -112,8 +112,20 @@
 }
 
 
+.perfect-place{
+    margin-top: 50px;
 
+    display: flex;
+    justify-content: space-evenly;
+}
+.text h3{
+    font-size: 30px;
+}
 
+.subscribe-container{
+    display: flex;
+    justify-content: space-evenly;
+}
 
 
 /* footer  */
