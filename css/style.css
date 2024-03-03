@@ -100,7 +100,23 @@
     padding: 20px;
 }
 
+.discount{
+    margin-top: 50px;
+    text-align: center;
+}
+.discount h2{
+    font-size: 30px;
+}
+.discount-img{
+    gap: 10px;
+}
 
+
+
+
+
+
+/* footer  */
 .last{
     padding: 50px;
     background: darkgray;
